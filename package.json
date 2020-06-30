@@ -1,0 +1,15 @@
+{
+    "name": "jsdoc",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "format": "prettier \"src/**/*.tsx\""
+    },
+    "devDependencies": {
+        "prettier": "2.0.5"
+    },
+    "dependencies": {
+        "prettier-plugin-jsdoc": "0.0.18"
+    }
+}
